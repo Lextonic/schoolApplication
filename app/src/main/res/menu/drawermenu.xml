@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/login" android:title="Login"></item>
+    <item android:id="@+id/profiel" android:title="Profiel"></item>
+    <item android:id="@+id/zoeken" android:title="Zoeken"></item>
+    <item android:id="@+id/rekenmachine" android:title="Rekenmachine"></item>
+    <item android:id="@+id/leerfuncties" android:title="Leerfuncties"></item>
+    <item android:id="@+id/leerstijlen" android:title="Leerstijlen"></item>
+</menu>
