@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Groen_van_Prinsterer</string>
+    <string name="open">Openen</string>
+    <string name="close">Sluiten</string>
 </resources>

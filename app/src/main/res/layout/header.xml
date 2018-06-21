@@ -3,11 +3,23 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="160dp"
-    android:background="@drawable/header-curriculum">
+    android:background="@drawable/headercurriculum"
+    android:padding="20dp">
     <ImageView
-        android:src=""
+        android:src="@drawable/profilepicture"
         android:layout_width="75dp"
         android:layout_height="75dp" />
-
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rick Ottenhof"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:layout_marginTop="5dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rick@lextonic.com"
+        android:textColor="@color/white"/>
 
 </LinearLayout>
